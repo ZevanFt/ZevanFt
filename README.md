@@ -11,11 +11,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=42D392&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+ZevanFt+%F0%9F%91%8B;星光不问赶路人%EF%BC%8C时光不负有心人%EF%BC%81" alt="Typing SVG" />
 </p>
+-->
+
+<div align="center">
+
+# Hi there, I'm ZevanFt 👋
+
+**星光不问赶路人，时光不负有心人！**
+
+</div>
 
 ---
 
@@ -27,8 +36,9 @@ Here are some ideas to get you started:
 <div align="center">
 
 🛠️ <b>某大厂硬件测试工程师（即将）</b>  
-🎯 <b>技能关键词：</b> JavaScript · Vue · Python  
-🎵 <b>音乐爱好者</b>
+🎯<b>技能：![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
+![Vue](https://img.shields.io/badge/-Vue-333?style=flat-square&logo=vue.js)
+![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)</b>
 
 <br/>
 
@@ -36,13 +46,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZevanFt&repo=Vue-Ele3-CMS&theme=vue-dark&show_owner=true" width="350" />
 </a>
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=js,vue,py,git,linux&theme=light" height="35"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ZevanFt&show_icons=true&theme=vue-dark&hide_title=true&hide=prs" width="350"/>
 
 </div>
 
