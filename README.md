@@ -1,18 +1,6 @@
 <!--
 **ZevanFt/ZevanFt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=42D392&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+ZevanFt+%F0%9F%91%8B;星光不问赶路人%EF%BC%8C时光不负有心人%EF%BC%81" alt="Typing SVG" />
 </p>
@@ -20,9 +8,13 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=42d392&height=120&section=header"/>
+
 # Hi there, I'm 且试新茶趁年华 👋
 
 **星光不问赶路人，时光不负有心人！**
+
+🎧 喜欢音乐 ｜ 📷 爱好摄影 ｜ 🧑‍💻 代码写作 ｜ 🍃 热爱生活
 
 </div>
 
