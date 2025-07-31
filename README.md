@@ -34,14 +34,6 @@
 
 <br/>
 
-<a href="https://github.com/ZevanFt/Vue-Ele3-CMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZevanFt&repo=Vue-Ele3-CMS&theme=vue-dark&show_owner=true" width="350" />
-</a>
-
-<a href="https://github.com/ZevanFt/our_love_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZevanFt&repo=our_love_app&theme=vue-dark&show_owner=true" width="350" />
-</a>
-
 </div>
 
 ---
