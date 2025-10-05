@@ -27,7 +27,7 @@
 
 <div align="center">
 
-🛠️ <b>某大厂硬件测试工程师（即将）</b>  
+🛠️ <b>某大厂测试工程师</b>  
 🎯<b>技能：![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-333?style=flat-square&logo=vue.js)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)</b>
